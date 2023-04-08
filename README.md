@@ -1,1 +1,1 @@
-# DSCI6004_NLP_FinalProject_Team_ARKA
+# DSCI6004 TEAM ARKA
