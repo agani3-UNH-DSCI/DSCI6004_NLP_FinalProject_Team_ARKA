@@ -1,7 +1,7 @@
 # DSCI6004 TEAM ARKA
 
 
-Jupyter Notebook Link: https://colab.research.google.com/drive/12GpuO4q1ljfVtymSWXmOuPqJGN0VNVFS?usp=sharing
+Jupyter Notebook Link: https://colab.research.google.com/drive/1PSaV-AOXgBSSWr04eT9rrYEXYm1uAH_8?usp=sharing
 
 ## Cyberbullying Detection
 
