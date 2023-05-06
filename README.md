@@ -40,7 +40,8 @@ In natural language processing (NLP), a word embedding paradigm known as GloVe e
 We deployed model using Gradio
 
 ![gradio](https://user-images.githubusercontent.com/115109673/236612650-c6189460-223f-4956-ba1b-ea6f6e0c0528.jpg)
-![gradio1](https://user-images.githubusercontent.com/115109673/236612676-b6f763c7-d0d9-4d3b-837a-f780fa7602b2.jpg)
+![gradio1](https://user-images.githubusercontent.com/115109673/236615607-0c299322-a903-4e59-836c-964d34e8ed6b.jpg)
+
 
 ## Results
 
