@@ -50,6 +50,9 @@ Precision :0.8337
 Recall    :0.8321 
 F1_score  :0.8334 
 
+
+![results](https://user-images.githubusercontent.com/115109673/236614520-0e6535c8-7f4d-4f7f-b7db-3d3e4fea915c.jpg)
+
 ## References:
 "GloVe: Global Vectors for Word Representation" Authors: Jeffrey Pennington, Richard Socher, Christopher D. Manning Published: 2014: https://nlp.stanford.edu/pubs/glove.pdf 
 "NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms" https://ieeexplore-ieee-org.unh-proxy01.newhaven.edu/document/8441728
