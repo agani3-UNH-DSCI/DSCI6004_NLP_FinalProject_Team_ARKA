@@ -36,6 +36,12 @@ In natural language processing (NLP), a word embedding paradigm known as GloVe e
 
 ![glove](https://user-images.githubusercontent.com/115109673/236608338-772521c1-7c00-4a19-913f-d551cd4015c3.jpg)
 
+## Model Deployement
+We deployed model using Gradio
+
+![gradio](https://user-images.githubusercontent.com/115109673/236612650-c6189460-223f-4956-ba1b-ea6f6e0c0528.jpg)
+![gradio1](https://user-images.githubusercontent.com/115109673/236612676-b6f763c7-d0d9-4d3b-837a-f780fa7602b2.jpg)
+
 ## References:
 "GloVe: Global Vectors for Word Representation" Authors: Jeffrey Pennington, Richard Socher, Christopher D. Manning Published: 2014: https://nlp.stanford.edu/pubs/glove.pdf 
 "NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms" https://ieeexplore-ieee-org.unh-proxy01.newhaven.edu/document/8441728
