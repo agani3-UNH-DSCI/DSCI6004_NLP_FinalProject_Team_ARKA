@@ -38,6 +38,7 @@ In natural language processing (NLP), a word embedding paradigm known as GloVe e
 
 ## References:
 "GloVe: Global Vectors for Word Representation" Authors: Jeffrey Pennington, Richard Socher, Christopher D. Manning Published: 2014: https://nlp.stanford.edu/pubs/glove.pdf 
-"NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms" https://ieeexplore-ieee-org.unh-proxy01.newhaven.edu/document/8441728 
+"NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms" https://ieeexplore-ieee-org.unh-proxy01.newhaven.edu/document/8441728
+"LSTM with working memory" https://ieeexplore.ieee.org/document/7965940 
 
 
