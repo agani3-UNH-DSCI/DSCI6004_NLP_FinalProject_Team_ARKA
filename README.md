@@ -54,8 +54,14 @@ F1_score  :0.8334
 ![results](https://user-images.githubusercontent.com/115109673/236614520-0e6535c8-7f4d-4f7f-b7db-3d3e4fea915c.jpg)
 
 ## References:
-"GloVe: Global Vectors for Word Representation" Authors: Jeffrey Pennington, Richard Socher, Christopher D. Manning Published: 2014: https://nlp.stanford.edu/pubs/glove.pdf 
-"NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms" https://ieeexplore-ieee-org.unh-proxy01.newhaven.edu/document/8441728
-"LSTM with working memory" https://ieeexplore.ieee.org/document/7965940 
+1. NLP and Machine Learning Techniques for Detecting Insulting Comments on Social Networking Platforms 
+https://ieeexplore-ieee-org.unh proxy01.newhaven.edu/document/8441728  
+2. LSTM with working memory https://ieeexplore.ieee.org/document/7965940 
+3. "GloVe: Global Vectors for Word Representation" Authors: Jeffrey Pennington, Richard Socher, Christopher D. Manning Published: 2014: https://nlp.stanford.edu/pubs/glove.pdf 
+4. Cyberbullying detection: advanced preprocessing techniques & deep learning architecture 
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00550-7 
+5. Accurate Cyberbullying Detection and Prevention on Social Media https://www.sciencedirect.com/science/article/pii/S1877050921002507 
+6. An Application to Detect Cyberbullying Using Machine Learning and Deep Learning Techniques  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9321314/ 
 
 
